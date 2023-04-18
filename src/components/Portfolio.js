@@ -15,18 +15,20 @@ const Portfolio = () => {
 
             id: 1,
             src: devashishportfolio,
-            href: 'https://github.com/DEVELOPER22DEVASHISH',
+            href: 'https://clever-granita-cfabd0.netlify.app/',
         },
 
         {
 
             id: 2,
-            src: bloggingApp
+            src: bloggingApp,
+            href: 'https://github.com/DEVELOPER22DEVASHISH/blogApp.git',
         },
         {
 
             id: 3,
-            src: movieApp
+            src: movieApp,
+            href: 'https://github.com/DEVELOPER22DEVASHISH/JavaMoviesApp.git'
         },
         // {
 
