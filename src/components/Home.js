@@ -12,10 +12,10 @@ const Home = () => {
 
                 <div className="flex flex-col justify-center h-full">
                     <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                        I'm a Full Stack Developer
+                        I'm a Full Stack Blockchain Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        I am an entry level full stack developer seeking to launch my career in full stack developement.
+                        I am an entry level full stack Blockchain developer seeking to launch my career in full stack Blockchain developement.
                         I am hardworking, quick learner, self motivated & self taught developer who has learnt all coding skills by own without any supervision of physical tutor.
                         I am very passionate to be a software developer.
                     </p>
